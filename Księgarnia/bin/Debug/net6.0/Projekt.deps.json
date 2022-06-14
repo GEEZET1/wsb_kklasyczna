@@ -8,14 +8,13 @@
     ".NETCoreApp,Version=v6.0": {
       "Projekt/1.0.0": {
         "dependencies": {
-          "BookLibrary": "1.0.0",
-          "BookLibrary.Reference": "1.0.0.0"
+          "BookLibrary": "1.0.0.0"
         },
         "runtime": {
           "Projekt.dll": {}
         }
       },
-      "BookLibrary.Reference/1.0.0.0": {
+      "BookLibrary/1.0.0.0": {
         "runtime": {
           "BookLibrary.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -31,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BookLibrary.Reference/1.0.0.0": {
+    "BookLibrary/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

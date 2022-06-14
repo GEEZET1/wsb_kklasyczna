@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "BookLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/BookLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BookLibrary.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "BookLibrary/1.0.0": {
-      "type": "project",
-      "path": "../BookLibrary/BookLibrary.csproj",
-      "msbuildProject": "../BookLibrary/BookLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "BookLibrary >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\test\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\test\\Desktop\\Studia\\ksiegarnia — kopia\\Projekt.csproj",
+      "projectUniqueName": "C:\\Users\\test\\Desktop\\Studia\\Księgarnia\\Projekt.csproj",
       "projectName": "Projekt",
-      "projectPath": "C:\\Users\\test\\Desktop\\Studia\\ksiegarnia — kopia\\Projekt.csproj",
+      "projectPath": "C:\\Users\\test\\Desktop\\Studia\\Księgarnia\\Projekt.csproj",
       "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\test\\Desktop\\Studia\\ksiegarnia — kopia\\obj\\",
+      "outputPath": "C:\\Users\\test\\Desktop\\Studia\\Księgarnia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\test\\Desktop\\Studia\\BookLibrary\\BookLibrary.csproj": {
-              "projectPath": "C:\\Users\\test\\Desktop\\Studia\\BookLibrary\\BookLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

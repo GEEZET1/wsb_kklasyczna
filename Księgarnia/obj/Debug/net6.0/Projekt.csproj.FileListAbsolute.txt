@@ -46,3 +46,21 @@ C:\Users\test\Desktop\Studia\ksiegarnia — kopia\bin\Debug\net6.0\BookLibrary.p
 C:\Users\test\Desktop\Studia\ksiegarnia — kopia\obj\Debug\net6.0\Projekt.csproj.CopyComplete
 C:\Users\test\Desktop\Studia\ksiegarnia — kopia\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
 C:\Users\test\Desktop\Studia\ksiegarnia — kopia\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\test\Desktop\Studia\Księgarnia\bin\Debug\net6.0\Projekt.exe
+C:\Users\test\Desktop\Studia\Księgarnia\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\test\Desktop\Studia\Księgarnia\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\test\Desktop\Studia\Księgarnia\bin\Debug\net6.0\Projekt.dll
+C:\Users\test\Desktop\Studia\Księgarnia\bin\Debug\net6.0\Projekt.pdb
+C:\Users\test\Desktop\Studia\Księgarnia\bin\Debug\net6.0\BookLibrary.dll
+C:\Users\test\Desktop\Studia\Księgarnia\bin\Debug\net6.0\BookLibrary.pdb
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\Projekt.dll
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\Projekt.pdb
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\test\Desktop\Studia\Księgarnia\obj\Debug\net6.0\ref\Projekt.dll
