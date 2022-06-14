@@ -1,0 +1,12 @@
+C:\Users\test\Desktop\Studia\BookLibrary\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\test\Desktop\Studia\BookLibrary\bin\Debug\net6.0\Projekt.dll
+C:\Users\test\Desktop\Studia\BookLibrary\bin\Debug\net6.0\Projekt.pdb
+C:\Users\test\Desktop\Studia\BookLibrary\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\Studia\BookLibrary\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\Studia\BookLibrary\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\Studia\BookLibrary\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\test\Desktop\Studia\BookLibrary\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Studia\BookLibrary\obj\Debug\net6.0\Projekt.dll
+C:\Users\test\Desktop\Studia\BookLibrary\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\test\Desktop\Studia\BookLibrary\obj\Debug\net6.0\Projekt.pdb
+C:\Users\test\Desktop\Studia\BookLibrary\obj\Debug\net6.0\ref\Projekt.dll

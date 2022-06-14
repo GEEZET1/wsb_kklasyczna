@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\test\\Desktop\\Studia\\BookLibrary\\BookLibrary.csproj",
-      "projectName": "BookLibrary",
-      "projectPath": "C:\\Users\\test\\Desktop\\Studia\\BookLibrary\\BookLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\test\\Desktop\\Studia\\BookLibrary\\Projekt.csproj",
+      "projectName": "Projekt",
+      "projectPath": "C:\\Users\\test\\Desktop\\Studia\\BookLibrary\\Projekt.csproj",
       "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\test\\Desktop\\Studia\\BookLibrary\\obj\\",
       "projectStyle": "PackageReference",
