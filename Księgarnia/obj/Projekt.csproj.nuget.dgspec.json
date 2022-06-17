@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\Księgarnia\\Projekt.csproj": {}
+    "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\Księgarnia\\Projekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\Księgarnia\\Projekt.csproj": {
+    "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\Księgarnia\\Projekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\Księgarnia\\Projekt.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\Księgarnia\\Projekt.csproj",
         "projectName": "Projekt",
-        "projectPath": "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\Księgarnia\\Projekt.csproj",
+        "projectPath": "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\Księgarnia\\Projekt.csproj",
         "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\Księgarnia\\obj\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\Księgarnia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",

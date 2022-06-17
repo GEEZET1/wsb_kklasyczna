@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\BookLibrary\\BookLibrary.csproj": {}
+    "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\BookLibrary\\BookLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\BookLibrary\\BookLibrary.csproj": {
+    "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\BookLibrary\\BookLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\BookLibrary\\BookLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\BookLibrary\\BookLibrary.csproj",
         "projectName": "BookLibrary",
-        "projectPath": "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\BookLibrary\\BookLibrary.csproj",
+        "projectPath": "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\BookLibrary\\BookLibrary.csproj",
         "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test\\Downloads\\wsb_kklasyczna-main\\wsb_kklasyczna-main\\BookLibrary\\obj\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\wsb_kklasyczna\\BookLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
