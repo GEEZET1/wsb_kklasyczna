@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary.csproj", "{6CA61214-0060-4A74-8D41-62F5E0974BF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookLibrary", "BookLibrary.csproj", "{6CA61214-0060-4A74-8D41-62F5E0974BF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekt", "..\ksiegarnia — kopia\Projekt.csproj", "{2992BB51-61FA-4D79-88AC-93D893D773BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekt", "..\Księgarnia\Projekt.csproj", "{2992BB51-61FA-4D79-88AC-93D893D773BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

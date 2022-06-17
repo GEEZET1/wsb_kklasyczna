@@ -10,3 +10,15 @@ C:\Users\test\Desktop\Studia\BookLibrary\obj\Release\net6.0\BookLibrary.dll
 C:\Users\test\Desktop\Studia\BookLibrary\obj\Release\net6.0\refint\BookLibrary.dll
 C:\Users\test\Desktop\Studia\BookLibrary\obj\Release\net6.0\BookLibrary.pdb
 C:\Users\test\Desktop\Studia\BookLibrary\obj\Release\net6.0\ref\BookLibrary.dll
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\bin\Release\net6.0\BookLibrary.deps.json
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\bin\Release\net6.0\BookLibrary.dll
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\bin\Release\net6.0\BookLibrary.pdb
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\obj\Release\net6.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\obj\Release\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\obj\Release\net6.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\obj\Release\net6.0\BookLibrary.AssemblyInfo.cs
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\obj\Release\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\obj\Release\net6.0\BookLibrary.dll
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\obj\Release\net6.0\refint\BookLibrary.dll
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\obj\Release\net6.0\BookLibrary.pdb
+C:\Users\test\Downloads\wsb_kklasyczna-main\wsb_kklasyczna-main\BookLibrary\obj\Release\net6.0\ref\BookLibrary.dll
